@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E Commerce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="discounts_fot_you">Discounts fot You</string>
+    <string name="view_all"><![CDATA[View All >]]></string>
+</resources>

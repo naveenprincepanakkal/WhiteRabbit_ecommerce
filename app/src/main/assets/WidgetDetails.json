@@ -1,0 +1,18 @@
+{
+	"widgetDetails": [{
+			"widgetId": "1",
+			"widgetName": "Product carousel",
+			"orderNumber": "1"
+		},
+		{
+			"widgetId": "2",
+			"widgetName": "Product collection",
+			"orderNumber": "2"
+		},
+		{
+			"widgetId": "3",
+			"widgetName": "Banner image",
+			"orderNumber": "3"
+		}
+	]
+}

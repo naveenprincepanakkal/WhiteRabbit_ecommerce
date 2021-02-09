@@ -1,0 +1,82 @@
+{
+	"products": [{
+			"id": "1001",
+			"name": "Black Printed",
+			"desc": "",
+			"price": "",
+			"categoryName": "T Shirt",
+			"categoryId": "1",
+			"offerDesc": "20% offer",
+			"imgUrl": "https://tinyurl.com/y4f5e96j"
+		},
+		{
+			"id": "1010",
+			"name": "Casio Black Watch",
+			"desc": "",
+			"price": "",
+			"categoryName": "Watch",
+			"categoryId": "3",
+			"offerDesc": "30% offer",
+			"imgUrl": "https://tinyurl.com/y2szwrys"
+		},
+		{
+			"id": "1002",
+			"name": "Black T Shirt",
+			"desc": "",
+			"price": "",
+			"categoryName": "T Shirt",
+			"categoryId": "1",
+			"offerDesc": "20% offer",
+			"imgUrl": "https://tinyurl.com/y4bfj5b7"
+		},
+		{
+			"id": "1005",
+			"name": "Full Sleves Shirt",
+			"desc": "",
+			"price": "",
+			"categoryName": "Shirt",
+			"categoryId": "2",
+			"offerDesc": "25% offer",
+			"imgUrl": "https://tinyurl.com/y44marw5"
+		},
+		{
+			"id": "1003",
+			"name": "Yellow T Shirt",
+			"desc": "",
+			"price": "",
+			"categoryName": "T Shirt",
+			"categoryId": "1",
+			"offerDesc": "20% offer",
+			"imgUrl": "https://tinyurl.com/y4urobx8"
+		},
+		{
+			"id": "1015",
+			"name": "Dress 1",
+			"desc": "",
+			"price": "",
+			"categoryName": "Womens Dress",
+			"categoryId": "4",
+			"offerDesc": "50% offer",
+			"imgUrl": "https://tinyurl.com/y2yhf95n"
+		},
+		{
+			"id": "1016",
+			"name": "Dress 2",
+			"desc": "",
+			"price": "",
+			"categoryName": "Womens Dress",
+			"categoryId": "4",
+			"offerDesc": "40% offer",
+			"imgUrl": "https://tinyurl.com/y5n467o3"
+		}, {
+			"id": "1017",
+			"name": "Black Saree",
+			"desc": "",
+			"price": "",
+			"categoryName": "Saree",
+			"categoryId": "7",
+			"offerDesc": "40% offer",
+			"imgUrl": "https://tinyurl.com/yxupqdll"
+		}
+	]
+}

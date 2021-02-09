@@ -1,0 +1,28 @@
+{
+
+	"carousel": [{
+			"id": "1001",
+			"imgUrl": "https://tinyurl.com/y3w8oaah"
+		},
+		{
+			"id": "1002",
+			"imgUrl": "https://tinyurl.com/y4vaulog"
+		},
+		{
+			"id": "1003",
+			"imgUrl": "https://tinyurl.com/y3j7rq6g"
+		},
+		{
+			"id": "1004",
+			"imgUrl": "https://tinyurl.com/y28jpmyr"
+		},
+		{
+			"id": "1005",
+			"imgUrl": "https://tinyurl.com/y2w7fbdo"
+		},
+		{
+			"id": "1006",
+			"imgUrl": "https://tinyurl.com/yy2f6lha"
+		}
+	]
+}

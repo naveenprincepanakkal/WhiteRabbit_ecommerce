@@ -1,58 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools">
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        tools:context=".view.MainActivity">
-
-        <FrameLayout
-            android:id="@+id/container_top"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="20" />
-
-        <FrameLayout
-            android:id="@+id/container_center"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="55" />
-
-        <FrameLayout
-            android:id="@+id/container_bottom"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="25" />
-    </LinearLayout>
-
-    <!-- <RelativeLayout
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-
+    xmlns:tools="http://schemas.android.com/tools"
     tools:context=".view.MainActivity">
 
-    <FrameLayout
-        android:id="@+id/container_top"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true" />
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:overScrollMode="never">
 
-    <FrameLayout
-        android:id="@+id/container_center"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_above="@id/container_bottom"
-        android:layout_below="@id/container_top"
-        android:layout_centerInParent="true" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
 
-    <FrameLayout
-        android:id="@+id/container_bottom"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true" />
+            <FrameLayout
+                android:id="@+id/container_top"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
 
-</RelativeLayout> -->
+            <FrameLayout
+                android:id="@+id/container_center"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp" />
 
+            <FrameLayout
+                android:id="@+id/container_bottom"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+    </ScrollView>
 </layout>
